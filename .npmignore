@@ -9,3 +9,4 @@ package-lock.json
 tsconfig.json
 !*.d.ts
 /.nyc_output
+/coverage
