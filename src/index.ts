@@ -1,7 +1,7 @@
 import { XmlTypes, XmlValidationResult, XmlValidatorOptions } from "./types";
 import { JSDOM } from "jsdom";
 
-const defaultOptions: XmlValidatorOptions = {
+export const defaultOptions: XmlValidatorOptions = {
     userAgent: "xml-validator",
 };
 

@@ -1,7 +1,7 @@
 {
   "name": "xml-validator",
-  "version": "0.1.0",
-  "description": "Typed xml validator.",
+  "version": "0.2.0",
+  "description": "Typed node.js xml validator.",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
